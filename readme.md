@@ -9,11 +9,9 @@ This repository contains data analysis work, including R analysis, Jupyter noteb
   - `Analisis_optativas.html`: HTML export of analysis
   - `Analisis_optativas.pdf`: PDF export of analysis
   - `Analisis_Grupos.pdf`: Group analysis results
-  - `Graficas.pdf`: Visualizations and charts
 
 - **Data Files**
   - `Grupos_Optativas.xlsx`: Dataset for group analysis
-  - `razas.xlsx`: Dataset for race analysis
 
 - **Documentation**
   - `Redacción/Práctica_1.tex`: LaTeX document with project write-up
